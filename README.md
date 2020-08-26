@@ -9,3 +9,4 @@
 - It records the highest score and provides cute sounds and images.
 
 # Game Image
+![1](https://user-images.githubusercontent.com/48639426/91302792-f9091000-e7e1-11ea-91fe-813cbcb21ffb.PNG)
